@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+ <!-- 象牙色 -->
+    <color name="lightyellow">#FFFFE0</color>
+     <!-- 桃色 -->
+    <color name="gold">#FFD700</color>
+    
+    <color name="red">#FF0000</color>
+</resources>
